@@ -1,0 +1,1 @@
+{"Age": "numeric", "Sex": "categorical", "Job": "categorical", "Housing": "categorical", "Saving accounts": "categorical", "Checking account": "categorical", "Credit amount": "numerical", "Duration": "numeric", "Purpose": "categorical", "Risk": "target"}
