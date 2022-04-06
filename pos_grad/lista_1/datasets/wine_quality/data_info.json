@@ -1,0 +1,1 @@
+{"fixed acidity": "numeric", "volatile acidity": "numeric", "citric acid": "numeric", "residual sugar": "numeric", "chlorides": "numeric", "free sulfur dioxide": "numeric", "total sulfur dioxide": "numeric", "density": "numeric", "pH": "numeric", "sulphates": "numeric", "alcohol": "numeric", "quality": "target"}

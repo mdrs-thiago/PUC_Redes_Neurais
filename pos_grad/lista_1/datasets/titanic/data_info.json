@@ -1,0 +1,1 @@
+{"PassengerId": "categorical", "Pclass": "categorical", "Name": "categorical", "Sex": "categorical", "Age": "numeric", "SibSp": "numeric", "Parch": "numeric", "Ticket": "categorical", "Fare": "numeric", "Cabin": "categorical", "Embarked": "categorical", "Survived": "target"}

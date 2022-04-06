@@ -1,0 +1,1 @@
+{"Age": "numeric", "Sex": "categorical", "CP": "categorical", "Trestbps": "numeric", "Chol": "numeric", "Fbs": "categorical", "Restecg": "categorical", "Thalach": "numeric", "Exang": "categorical", "Oldpeak": "numeric", "Slope": "categorical", "Ca": "categorical", "Thal": "categorical", "Num": "target"}
