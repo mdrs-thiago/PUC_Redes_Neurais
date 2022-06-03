@@ -60,5 +60,3 @@ A terceira lista de exercícios contempla o uso de um tipo especial de Redes Neu
 # Contato 
 
 Qualquer dúvida, entre em contato com a profª ou o monitor da disciplina.
-
-Monitor: Thiago Medeiros Carvalho - thiago.medeiros.carvalho@gmail.com
