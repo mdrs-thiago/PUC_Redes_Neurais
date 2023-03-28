@@ -1,0 +1,1 @@
+{"date": "categorical", "Temperature": "numeric", "Humidity": "numeric", "Light": "numeric", "CO2": "numeric", "HumidityRatio": "numeric", "Occupancy": "target"}
