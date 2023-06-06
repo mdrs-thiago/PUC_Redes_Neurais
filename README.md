@@ -57,6 +57,10 @@ A segunda lista de exercícios contempla o uso de Redes Neurais para um problema
 
 A terceira lista de exercícios contempla o uso de um tipo especial de Redes Neurais, chamado Mapa de Kohonen. A pasta `pos_grad/lista_3` contém um arquivo IPython Notebook com algumas funções auxiliares e um arquivo PDF com as instruções para a lista.
 
+# Conteúdo Fuzzy
+
+Link para as aulas de ICA [aqui](https://drive.google.com/drive/folders/1DU0AibYCWsPRt3nPygvJXlA9btLonjJC?usp=sharing)
+
 # Contato 
 
 Qualquer dúvida, entre em contato com a profª ou o monitor da disciplina (thiago.medeiros.carvalho@gmail.com).
